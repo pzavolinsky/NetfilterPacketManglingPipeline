@@ -37,7 +37,7 @@ g++ -g -Wall -pedantic src/main.o src/NetFilterQueue.o src/PacketHandlers.o -o b
 Running the prototype
 ---------------------
 
-To see this in action you will need to terminal windows.
+To see this in action you will need two terminal windows.
 
 In the first terminal run:
 ```shell
