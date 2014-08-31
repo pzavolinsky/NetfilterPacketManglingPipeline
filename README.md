@@ -3,7 +3,7 @@ Netfilter-queue packet mangling pipeline
 
 This prototype was inspired by my friend Pablo Deymonnaz's degree [thesis](http://materias.fi.uba.ar/7500/TesisDeymonnaz.pdf) on steganographic vulnerabilities of the IP protocol.
 
-Essentially, this prototype is a libnetfilter_queue object wrapper that abstracts packet-mangling operations (such as embedding steganographic messages in IP headers) from the boilerplate code required to setup, manage and destroy a Netfilter queues.
+Essentially, this prototype is a libnetfilter_queue object wrapper that abstracts packet-mangling operations (such as embedding steganographic messages in IP headers) from the boilerplate code required to setup, manage and destroy Netfilter queues.
 
 Build
 -----
